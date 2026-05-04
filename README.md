@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين يا حلم السنين
+> خذني إليك بشوق وحنين
+> في قلب الليل أراك هنا
+> روحك تسري في دمي أنا
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
