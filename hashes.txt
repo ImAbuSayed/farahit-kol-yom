@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Farahit Kol Yom
+
+This log tracks the cryptographic history and versioning for the song **Farahit Kol Yom** (farahit-kol-yom).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:50:22.864569 | `v1` | `1d72f902e5a6ffbf29c7fca34e762e40a924a48bef0dad3580f42227672dc00a` | `36adb721a07fc79a66ad60a33b0ae824266d96e495744404d1c012f0e46e736f` | `2026-05-08_farahit-kol-yom-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
